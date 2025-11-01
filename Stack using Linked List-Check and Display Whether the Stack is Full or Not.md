@@ -29,7 +29,6 @@ To write a Python program that:
    - Otherwise, print "Stack is not full".
 
 ## 📝 Program
-Add Code here
 ```
   from queue import LifoQueue
   stack = LifoQueue(maxsize=4)
