@@ -29,7 +29,6 @@ To write a Python program to:
 
 ---
 ## Program
-Add code here
 ```
   queue = []
   queue.append('a')
